@@ -1,0 +1,10 @@
+﻿  solution2.cpp
+d:\放置于桌面文件\算法代码\leetcode\leetcode005\leetcode005\solution2.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\放置于桌面文件\算法代码\leetcode\leetcode005\leetcode005\solution2.cpp(36): warning C4018: “<=”: 有符号/无符号不匹配
+  solution1.cpp
+d:\放置于桌面文件\算法代码\leetcode\leetcode005\leetcode005\solution1.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+d:\放置于桌面文件\算法代码\leetcode\leetcode005\leetcode005\solution1.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+solution2.obj : error LNK2005: "void __cdecl test(void)" (?test@@YAXXZ) 已经在 solution1.obj 中定义
+solution2.obj : error LNK2005: _main 已经在 solution1.obj 中定义
+D:\放置于桌面文件\算法代码\LeetCode\LeetCode005\Debug\LeetCode005.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
