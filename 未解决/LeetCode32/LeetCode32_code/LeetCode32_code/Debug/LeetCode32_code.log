@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\yyj\coding\c++\leetcode\未解决\leetcode32\leetcode32_code\leetcode32_code\main.cpp(14): warning C4018: “<=”: 有符号/无符号不匹配
+  LeetCode32_code.vcxproj -> D:\yyj\coding\C++\LeetCode\未解决\LeetCode32\LeetCode32_code\Debug\LeetCode32_code.exe
+  LeetCode32_code.vcxproj -> D:\yyj\coding\C++\LeetCode\未解决\LeetCode32\LeetCode32_code\Debug\LeetCode32_code.pdb (Full PDB)
